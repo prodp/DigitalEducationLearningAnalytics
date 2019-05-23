@@ -1,0 +1,22 @@
+{
+  "_id": "cjqnc24a7000d01ywu0maaj14",
+  "activityData": {
+    "structure": "all",
+    "payload": {"all": {"data": null, "config": {}}}
+  },
+  "socialStructure": {},
+  "globalStructure": {
+    "studentIds": [
+      "4NSuWiCu5znbcEx9Y",
+      "kKdkSmXL6hxfBRv2M",
+      "eciSLiM42uGfNfywq",
+      "Wc2FczZt2QLm5jyQu"
+    ],
+    "students": {
+      "4NSuWiCu5znbcEx9Y": "Luca",
+      "kKdkSmXL6hxfBRv2M": "Yao",
+      "eciSLiM42uGfNfywq": "Emy",
+      "Wc2FczZt2QLm5jyQu": "Andrea"
+    }
+  }
+}

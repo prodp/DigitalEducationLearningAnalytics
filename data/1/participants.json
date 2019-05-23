@@ -1,0 +1,22 @@
+{
+  "_id": "cjpbfb3r4004101rst9e4jfh6",
+  "activityData": {
+    "structure": "all",
+    "payload": {"all": {"data": null, "config": {}}}
+  },
+  "socialStructure": {},
+  "globalStructure": {
+    "studentIds": [
+      "c6zCQtfKQGddgoc9y",
+      "px548KrDtPm9paXuf",
+      "CbPERfELbBiyCmmtG",
+      "CnopXJqfoNeFwxji6"
+    ],
+    "students": {
+      "c6zCQtfKQGddgoc9y": "Paolo",
+      "px548KrDtPm9paXuf": "gab",
+      "CbPERfELbBiyCmmtG": "manetti",
+      "CnopXJqfoNeFwxji6": "mel"
+    }
+  }
+}

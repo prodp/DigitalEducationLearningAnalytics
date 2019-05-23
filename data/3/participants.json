@@ -1,0 +1,22 @@
+{
+  "_id": "cjqmp46ov008k01ywqwtkkj3u",
+  "activityData": {
+    "structure": "all",
+    "payload": {"all": {"data": null, "config": {}}}
+  },
+  "socialStructure": {},
+  "globalStructure": {
+    "studentIds": [
+      "ai7AATdAsy2oH8x8W",
+      "vSCKqWxLPgdPys5xx",
+      "SJd8BukZ3FWp5DtCc",
+      "RuzhDswW8qyqcaFtP"
+    ],
+    "students": {
+      "ai7AATdAsy2oH8x8W": "camil",
+      "vSCKqWxLPgdPys5xx": "alina",
+      "SJd8BukZ3FWp5DtCc": "camelia",
+      "RuzhDswW8qyqcaFtP": "cédric"
+    }
+  }
+}

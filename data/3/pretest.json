@@ -1,0 +1,81 @@
+{
+  "structure": "individual",
+  "payload": {
+    "RuzhDswW8qyqcaFtP": {
+      "data": {
+        "questions": [
+          "<p>How often do you perform muscular reinforcement exercises?</p>",
+          "<p>Did you already know about the burpee before?</p>",
+          "<p>Can you identify the different steps that compose a burpee? Select all that applies.</p>"
+        ],
+        "answers": ["Once a day", "Yes", "A squat"],
+        "answersIndex": [0, 0, 1],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "cedric answered the questions as follows: How often do you perform muscular reinforcement exercises? Once a day.  Did you already know about the burpee before? Yes.  Can you identify the different steps that compose a burpee? Select all that applies. A squat.",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"0": true, "text": ""},
+          "2": {"1": true, "3": true, "5": true, "text": ""}
+        }
+      }
+    },
+    "SJd8BukZ3FWp5DtCc": {
+      "data": {
+        "questions": [
+          "<p>How often do you perform muscular reinforcement exercises?</p>",
+          "<p>Did you already know about the burpee before?</p>",
+          "<p>Can you identify the different steps that compose a burpee? Select all that applies.</p>"
+        ],
+        "answers": ["Once a month", "Yes", "A crunch"],
+        "answersIndex": [2, 0, 0],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "camelia answered the questions as follows: How often do you perform muscular reinforcement exercises? Once a month.  Did you already know about the burpee before? Yes.  Can you identify the different steps that compose a burpee? Select all that applies. A crunch.",
+        "form": {
+          "0": {"2": true, "text": ""},
+          "1": {"0": true, "text": ""},
+          "2": {"0": true, "1": false, "3": true, "5": true, "text": ""}
+        }
+      }
+    },
+    "ai7AATdAsy2oH8x8W": {
+      "data": {
+        "questions": [
+          "<p>How often do you perform muscular reinforcement exercises?</p>",
+          "<p>Did you already know about the burpee before?</p>",
+          "<p>Can you identify the different steps that compose a burpee? Select all that applies.</p>"
+        ],
+        "answers": ["Once a day", "No", "A squat"],
+        "answersIndex": [0, 1, 1],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "camil answered the questions as follows: How often do you perform muscular reinforcement exercises? Once a day.  Did you already know about the burpee before? No.  Can you identify the different steps that compose a burpee? Select all that applies. A squat.",
+        "form": {
+          "0": {"0": true, "text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"1": true, "3": true, "5": true, "text": ""}
+        }
+      }
+    },
+    "vSCKqWxLPgdPys5xx": {
+      "data": {
+        "questions": [
+          "<p>How often do you perform muscular reinforcement exercises?</p>",
+          "<p>Did you already know about the burpee before?</p>",
+          "<p>Can you identify the different steps that compose a burpee? Select all that applies.</p>"
+        ],
+        "answers": ["Once a week", "No", "A squat"],
+        "answersIndex": [1, 1, 1],
+        "maxCorrect": 3,
+        "coordinates": {"x": 0, "y": 0},
+        "msg": "alina answered the questions as follows: How often do you perform muscular reinforcement exercises? Once a week.  Did you already know about the burpee before? No.  Can you identify the different steps that compose a burpee? Select all that applies. A squat.",
+        "form": {
+          "0": {"1": true, "text": ""},
+          "1": {"1": true, "text": ""},
+          "2": {"1": true, "2": true, "3": true, "5": true, "text": ""}
+        }
+      }
+    }
+  }
+}

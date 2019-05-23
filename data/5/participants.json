@@ -1,0 +1,22 @@
+{
+  "_id": "cjqnx8eut004x01rsuzkk8qkc",
+  "activityData": {
+    "structure": "all",
+    "payload": {"all": {"data": null, "config": {}}}
+  },
+  "socialStructure": {},
+  "globalStructure": {
+    "studentIds": [
+      "Rivek8GdHjTtpmLaT",
+      "PMcPqB5n7fhvz5p78",
+      "qQ6BekGKLHPJFWexN",
+      "TNMiquM8pQJpmkEsJ"
+    ],
+    "students": {
+      "Rivek8GdHjTtpmLaT": "lionel",
+      "PMcPqB5n7fhvz5p78": "ricardo",
+      "qQ6BekGKLHPJFWexN": "raphael",
+      "TNMiquM8pQJpmkEsJ": "Martin"
+    }
+  }
+}

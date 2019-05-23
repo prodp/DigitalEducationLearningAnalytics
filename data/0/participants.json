@@ -1,0 +1,22 @@
+{
+  "_id": "cjp8lhne7000o01rso34m1vrr",
+  "activityData": {
+    "structure": "all",
+    "payload": {"all": {"data": null, "config": {}}}
+  },
+  "socialStructure": {},
+  "globalStructure": {
+    "studentIds": [
+      "iqN8c7b2tszWEnSLZ",
+      "trsi3XofzvE4XbJ5j",
+      "GQJnqva2MMkX6WKD8",
+      "TFDTT3rsaZK7TDjQa"
+    ],
+    "students": {
+      "iqN8c7b2tszWEnSLZ": "chiara",
+      "trsi3XofzvE4XbJ5j": "Lucio",
+      "GQJnqva2MMkX6WKD8": "Bizzo0",
+      "TFDTT3rsaZK7TDjQa": "pincopancoSS"
+    }
+  }
+}

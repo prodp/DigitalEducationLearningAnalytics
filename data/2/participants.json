@@ -1,0 +1,22 @@
+{
+  "_id": "cjpmdhnm2000201rs4c395sj9",
+  "activityData": {
+    "structure": "all",
+    "payload": {"all": {"data": null, "config": {}}}
+  },
+  "socialStructure": {},
+  "globalStructure": {
+    "studentIds": [
+      "B9CdLAupsompsqiRe",
+      "gpf27gECXTpeWsipp",
+      "Yd9q8ijNqr3YoSMdp",
+      "8uHpYwj7T3HbQPR8u"
+    ],
+    "students": {
+      "B9CdLAupsompsqiRe": "berk",
+      "gpf27gECXTpeWsipp": "carolina",
+      "Yd9q8ijNqr3YoSMdp": "sandra",
+      "8uHpYwj7T3HbQPR8u": "gaetan"
+    }
+  }
+}
